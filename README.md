@@ -17,13 +17,13 @@
 
 ## Descrição
 
-> Este projeto foi desenvolvido para testar os conhecimentos adquiridos do curso Jovem + Digital Python.
-> O projeto consiste em um sistema de Gestão de stock desenvolvido em python com integração à base de dados do MySql WorkBench, que permite Adicionar, Listar, Atualizar, Remover produtos assim como efetuar vendas a clientes e encomendas a fornecedores de periféricos relacionados com informática.
+> Este projeto foi desenvolvido para adquirir e consolidar os conceitos em React + Vite .
+> O projeto consiste em uma aplicação de Lista de livros em que o utilizador pode adicionar um novo livro, editar ou excluir um livro que foi adicionado.
 
 #### Tecnologias e Ferramentas
 
 - ![Node](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![React](https://user-images.githubusercontent.com/92939227/224503140-d34b9946-02a0-40c2-b003-c1f6e706e8e8.jpg)
+- ![React](https://img.shields.io/badge/react-%2320232a.svg)
 - ![html](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 - ![css](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 - ![javascript](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
