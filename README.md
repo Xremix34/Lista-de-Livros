@@ -2,7 +2,7 @@
 # <p align="center">Lista de Livros Vite + React</p>
  
 ![menu_login](https://github.com/user-attachments/assets/114d06f6-38bb-4af5-bc2e-b99528276d49)
-![menuprincipal](https://user-images.githubusercontent.com/92939227/194332276-d6d9c74b-bec6-4024-ab76-ab22de2f48d6.png)
+![menuprincipal](https://github.com/user-attachments/assets/5cfc0aa2-4690-4d35-bc21-b7382fae1a37)
 
 ---
 
