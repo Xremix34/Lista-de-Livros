@@ -33,8 +33,8 @@
 ---
 
 ## Requisitos
-- PyCharm(https://www.jetbrains.com/pycharm/)
-- MySQL Workbench(https://www.mysql.com/products/workbench/)
+- VSCode(https://www.jetbrains.com/pycharm/](https://code.visualstudio.com/)
+- NodeJS(https://www.mysql.com/products/workbench/](https://nodejs.org/pt)
 ---
 
 ## Como utilizar
@@ -45,7 +45,6 @@
 - <p>Ir na pasta library e executar o comando npm install para instalar a pasta node-modules</p>
 - <p>Fazer npm run dev para inicializar o servidor node.</p>
 - <p>No Windows Clicar CTRL + mouse no link para ir para a hiperligação do projeto.</p>
-`python menu.py`
 
 ---
 
