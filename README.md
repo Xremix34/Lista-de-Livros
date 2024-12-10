@@ -1,8 +1,8 @@
 
 # <p align="center">Lista de Livros Vite + React</p>
  
-![menu_login](https://github.com/user-attachments/assets/114d06f6-38bb-4af5-bc2e-b99528276d49)
-![menuprincipal](https://github.com/user-attachments/assets/5cfc0aa2-4690-4d35-bc21-b7382fae1a37)
+![Home](https://github.com/user-attachments/assets/114d06f6-38bb-4af5-bc2e-b99528276d49)
+![Editar](https://github.com/user-attachments/assets/5cfc0aa2-4690-4d35-bc21-b7382fae1a37)
 
 ---
 
@@ -28,7 +28,7 @@
 - ![css](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 - ![javascript](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-[Voltar ao Início](#Gestor-de-Stock-Informático)
+[Voltar ao Início](#Home)
 
 ---
 
@@ -55,4 +55,4 @@
 [<img src="https://avatars.githubusercontent.com/u/92939227?s=96&v=4" width=115> <br> <sub> Elio Borges </sub>](https://github.com/Xremix34)|
 | :---: |
 
-[Voltar ao Início](#Gestor-de-Stock-Informático)
+[Voltar ao Início](#Home)
